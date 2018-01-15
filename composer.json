@@ -26,7 +26,8 @@
         "hosteurope/password-generator": "^1.0",
         "docopt/docopt": "^1.0",
         "jkingweb/druuid": "^3.0",
-        "zendframework/zend-diactoros": "^1.6"
+        "zendframework/zend-diactoros": "^1.6",
+        "apix/log": "^1.2"
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "*"
